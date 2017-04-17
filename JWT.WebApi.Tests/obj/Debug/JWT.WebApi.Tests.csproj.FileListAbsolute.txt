@@ -1,0 +1,99 @@
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\ApplicationInsights.config
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.Tests.dll.config
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.Tests.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.Tests.pdb
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Http.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.pdb
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.dll.config
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Http.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\obj\Debug\JWT.WebApi.Tests.csprojResolveAssemblyReference.cache
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\obj\Debug\JWT.WebApi.Tests.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.WebApi.Tests\obj\Debug\JWT.WebApi.Tests.pdb
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\ApplicationInsights.config
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\csc.exe
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\csc.exe.config
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\csc.rsp
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\csi.exe
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\csi.rsp
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\vbc.exe
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\vbc.rsp
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.Tests.dll.config
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.Tests.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.Tests.pdb
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Helpers.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Http.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Mvc.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Razor.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Optimization.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\JWT.WebApi.pdb
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Helpers.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Http.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Mvc.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Razor.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\bin\Debug\System.Web.Optimization.xml
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\obj\Debug\JWT.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\obj\Debug\JWT.WebApi.Tests.dll
+C:\experiments\JWT.Experiment.1\JWT.WebApi.Tests\obj\Debug\JWT.WebApi.Tests.pdb

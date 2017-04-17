@@ -1,0 +1,53 @@
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.runner.utility.net35.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.runner.reporters.net452.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.Test.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.Test.pdb
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.assert.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.core.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.execution.desktop.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.assert.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.core.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.execution.desktop.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\obj\Debug\JWT.Experiment.1.Test.csprojResolveAssemblyReference.cache
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\obj\Debug\JWT.Experiment.1.Test.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\obj\Debug\JWT.Experiment.1.Test.pdb
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.Test.dll.config
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.pdb
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.dll.config
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Newtonsoft.Json.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Microsoft.IdentityModel.Logging.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\obj\Debug\JWT.Experiment.1.Test.csprojResolveAssemblyReference.cache
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\obj\Debug\JWT.Experiment.1.Test.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\obj\Debug\JWT.Experiment.1.Test.pdb
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.runner.utility.net35.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.runner.reporters.net452.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.Test.dll.config
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.Test.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.Test.pdb
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Newtonsoft.Json.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.assert.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.core.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.execution.desktop.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\JWT.Experiment.1.pdb
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\Newtonsoft.Json.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.assert.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.core.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1.Test\bin\Debug\xunit.execution.desktop.xml

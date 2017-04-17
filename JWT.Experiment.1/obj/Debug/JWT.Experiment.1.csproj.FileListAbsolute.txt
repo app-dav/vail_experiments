@@ -1,0 +1,132 @@
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\JWT.Experiment.1.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\JWT.Experiment.1.pdb
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Newtonsoft.Json.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Newtonsoft.Json.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\obj\Debug\JWT.Experiment.1.csprojResolveAssemblyReference.cache
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\obj\Debug\JWT.Experiment.1.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\obj\Debug\JWT.Experiment.1.pdb
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\JWT.Experiment.1.dll.config
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Options.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Primitives.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Net.Http.Headers.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Buffers.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Text.Encodings.Web.dll
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Options.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Primitives.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Net.Http.Headers.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\appel\documents\visual studio 2017\Projects\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Text.Encodings.Web.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\JWT.Experiment.1.dll.config
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\JWT.Experiment.1.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\JWT.Experiment.1.pdb
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Newtonsoft.Json.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Buffers.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Text.Encodings.Web.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\Newtonsoft.Json.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\bin\Debug\System.Text.Encodings.Web.xml
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\obj\Debug\JWT.Experiment.1.csprojResolveAssemblyReference.cache
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\obj\Debug\JWT.Experiment.1.dll
+C:\experiments\JWT.Experiment.1\JWT.Experiment.1\obj\Debug\JWT.Experiment.1.pdb

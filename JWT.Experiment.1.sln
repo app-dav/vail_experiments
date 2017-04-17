@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT.Experiment.1", "JWT.Experiment.1\JWT.Experiment.1.csproj", "{1F7433CC-6BD1-4296-B065-C7BB037B1917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT.Experiment.1.Test", "JWT.Experiment.1.Test\JWT.Experiment.1.Test.csproj", "{83186B06-A490-4188-B3F1-2892E315905F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT.WebApi", "JWT.WebApi\JWT.WebApi.csproj", "{7DC484F7-3387-408C-A447-5541C713E9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT.WebApi.Tests", "JWT.WebApi.Tests\JWT.WebApi.Tests.csproj", "{53140212-0503-491D-A248-0D37BD7DE321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7433CC-6BD1-4296-B065-C7BB037B1917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7433CC-6BD1-4296-B065-C7BB037B1917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7433CC-6BD1-4296-B065-C7BB037B1917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7433CC-6BD1-4296-B065-C7BB037B1917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83186B06-A490-4188-B3F1-2892E315905F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83186B06-A490-4188-B3F1-2892E315905F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83186B06-A490-4188-B3F1-2892E315905F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83186B06-A490-4188-B3F1-2892E315905F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC484F7-3387-408C-A447-5541C713E9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC484F7-3387-408C-A447-5541C713E9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC484F7-3387-408C-A447-5541C713E9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC484F7-3387-408C-A447-5541C713E9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53140212-0503-491D-A248-0D37BD7DE321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53140212-0503-491D-A248-0D37BD7DE321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53140212-0503-491D-A248-0D37BD7DE321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53140212-0503-491D-A248-0D37BD7DE321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
