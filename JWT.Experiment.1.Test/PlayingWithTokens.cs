@@ -6,6 +6,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using Xunit;
+using JWT.Experiment._1;
 
 namespace JWT.Experiment._1.Test
 {
@@ -43,6 +44,19 @@ namespace JWT.Experiment._1.Test
         }
 
         [Fact]
+        public void TestSelfValidate2()
+        {
+            TokenBuilder tknBuild = new TokenBuilder();
+            var stringyToken = tknBuild.BuildToken();
+
+            TokenValidator tknVld = new TokenValidator();
+            var rtn  = tknVld.ValidateToken(stringyToken);
+            Assert.NotNull(rtn);
+        }
+
+
+
+        [Fact]
     public void TestSelfValidate()
     {
             string secretKey = "mysupersecret_secretkey!123";
@@ -68,5 +82,7 @@ namespace JWT.Experiment._1.Test
             Assert.NotNull(validToken);
         }
     }
+
+
 }
 
