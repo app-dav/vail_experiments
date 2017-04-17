@@ -21,6 +21,7 @@ namespace JWT.Experiment._1.Test
 
             var tokenHandler = new JwtSecurityTokenHandler();
             var now = DateTime.Now;
+            var issuer = "vailResorts";
 
             var descr = new SecurityTokenDescriptor
             {
@@ -29,11 +30,11 @@ namespace JWT.Experiment._1.Test
                     {
                         new Claim(ClaimTypes.Email, "dappel@vailresorts.com")
                     }),
-                Issuer = "vailResorts",
+                Issuer = issuer,
                 Audience = url,
                 IssuedAt = now,
                 Expires = now.AddMinutes(60),
-                NotBefore = now.AddMinutes(45),
+                NotBefore = now,
                 SigningCredentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256)
             };
 
@@ -43,7 +44,12 @@ namespace JWT.Experiment._1.Test
 
             Assert.NotNull(stringyToken);
 
-            var validators = new TokenValidationParameters();
+            var validators = new TokenValidationParameters()
+            {
+                AudienceValidator = (aud, tkn, vp) => { return aud.Contains(url); },
+                IssuerSigningKey = key,
+              IssuerValidator = (iss, tkn, vp) => { return issuer;  }
+            };
             SecurityToken validToken = null;
             tokenHandler.ValidateToken(stringyToken, validators, out validToken);
             Assert.NotNull(validToken);
